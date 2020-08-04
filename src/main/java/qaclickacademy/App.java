@@ -14,4 +14,9 @@ public class App
         System.out.println( "GitDemo4" );
         
     }
+    
+    public static void GitX()
+    {
+    	System.out.println( "GitX" );
+    }
 }
