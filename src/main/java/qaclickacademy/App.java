@@ -19,4 +19,19 @@ public class App
     {
     	System.out.println( "GitX" );
     }
+    
+    public static void GitX1()
+    {
+    	System.out.println( "GitX" );
+    }
+    
+    public static void GitX2()
+    {
+    	System.out.println( "GitX" );
+    }
+    
+    public static void GitX3()
+    {
+    	System.out.println( "GitX" );
+    }
 }
