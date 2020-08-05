@@ -34,4 +34,9 @@ public class App
     {
     	System.out.println( "GitX" );
     }
+    
+    public static void GitX4()
+    {
+    	System.out.println( "GitX4" );
+    }
 }
